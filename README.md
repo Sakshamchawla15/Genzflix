@@ -1,4 +1,4 @@
-# Genzflix Clone
+# Genzflix
 
 - Demo: <https://netflix-clone-ebon-nu.vercel.app/>
 
